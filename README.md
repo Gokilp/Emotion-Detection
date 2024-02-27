@@ -2,7 +2,6 @@
 
 ## Emotion Detection
 
-- 
 
 - Use train.py file to train the model.
 
