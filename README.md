@@ -1,6 +1,6 @@
 ## **Introduction**
 
-PyPower is an Emotion Detection project that utilizes artificial intelligence to recognize and classify human emotions from images or video streams. This project aims to provide a simple yet powerful tool for understanding human emotions using deep learning techniques.
+Emotion Detection project that utilizes artificial intelligence to recognize and classify human emotions from images or video streams. This project aims to provide a simple yet powerful tool for understanding human emotions using deep learning techniques.
 
 ## **Features**
 
